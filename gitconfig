@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tquinta@alumni.ie.edu
+	name = Tomas Quintanilha
